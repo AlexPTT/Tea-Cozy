@@ -42,6 +42,8 @@ nav span{
 /*Content*/
 .main{
   padding-top: 70px;
+  margin: auto;
+  width: 1200px;
 
 }
 /*Mission*/
@@ -56,11 +58,11 @@ nav span{
    display: flex;
    flex-direction: column;
    align-items: center;
-   background-color: black;
 }
   #mission .content{
     margin: auto;
     width: 100%;
+    background-color: black;
 }
   h2,h4 {
     margin: 0px;
